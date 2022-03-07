@@ -92,7 +92,7 @@ const categories = menu.reduce(
     }
     return values;
   },
-  ["Bilal"]
+  ["All"]
 );
 
 const categoryList = () => {
